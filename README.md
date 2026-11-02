@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ChiYuanRF-MGGHS ...Chinese:鱼赤元
-- 👀 I’m interested in ...!Play Game!
-- 🌱 I’m currently not learning ...I'm CURRENTLY IMPRISONED in "High School"!
-- 💞️ I’m looking to collaborate on ...Want to join MGGHS(Green Mountain Guild Hall Studio)?But we don't have any salary！
+- 👋 Hi, I’m @ChiYuanRF-QSGDD ...Chinese:風雲魚赤元
+- 👀 I’m interested in ...!Play Game （给木给木给木哦呀立塔依~）!
+- 🌱 I’m studying right now ...QUT Qingdao University of Technology--Architecture（But I'm also learning cpp）!
+- 💞️ I’m looking to collaborate on ...Please Join to OUR QSGDD（青山游戏开发部）
 - 📫 How to reach me ...E-mail:chiyuanrf@outlook.com
 - 😄 Pronouns: ...?
-- ⚡ Fun fact: ...I'm a Boy?YES? And i don't know any computer language^^
+- ⚡ Fun fact: ...I'm a Boy?YES?（I'm not MtF.I just a Cute Boy） Hello World！^^ 
 
 <!---
 ChiYuanRF-MGGHS/ChiYuanRF-MGGHS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
