@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChiYuanRF-QSGDD ...Chinese:風雲魚赤元
 - 👀 I’m interested in ...!Play Game （给木给木给木哦呀立塔依~）!
 - 🌱 I’m studying right now ...QUT Qingdao University of Technology--Architecture（But I'm also learning cpp）!
-- 💞️ I’m looking to collaborate on ...Please Join to OUR QSGDD（青山游戏开发部）
+- 💞️ I’m looking to collaborate on ...Please Join OUR QSGDD（青山游戏开发部）QingShan Game Develop Department
 - 📫 How to reach me ...E-mail:chiyuanrf@outlook.com
 - 😄 Pronouns: ...?
 - ⚡ Fun fact: ...I'm a Boy?YES?（I'm not MtF.I just a Cute Boy） Hello World！^^ 
